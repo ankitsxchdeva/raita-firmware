@@ -1,2 +1,1 @@
-# raita-firmware
-public firmware for raita
+I'll update flashing instructions here when somebody bugs me about it.
